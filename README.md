@@ -1,4 +1,4 @@
-### Thanks for visiting my Github 👋
+<p align="center">Thanks for visiting my Github 👋</p>
 
 <p align="center">
   <a href="https://github.com/webmaster1022">
